@@ -1,0 +1,88 @@
+.background_purchase{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1vh;
+    border-radius: 2vh;
+    background-color: lightseagreen;
+    width: 99.5vw;
+    height: 98.5vh;
+}
+
+.card_invisible_purchase{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2vh;
+    margin-left: 2vw;
+    padding-top: 2px;
+    padding-right: 2vw;
+    width: 95vw;
+    height: 25vh;
+    background-color: lightcyan;
+}
+
+.card_invisible_purchase2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2vh;
+    margin-left: 2vw;
+    padding-top: 2px;
+    padding-right: 2vw;
+    width: 95vw;
+    height: 50vh;
+    background-color: lightcyan;
+}
+
+.card_purchase{
+    border-radius: 2vh;
+    transition: 0.5s;
+    padding-right: 2vh;
+    width: 75vw;
+    height: 24vh;
+    background-color: lightblue;
+}
+
+.card_purchase2{
+    box-shadow: 0 4px 30px 0 rgba(25, 24, 24, 0.2);
+    border-radius: 2vh;
+    transition: 0.5s;
+    padding-right: 2vh;
+    width: 25vw;
+    height: 24vh;
+    background-color: lightblue;
+    border: 2px solid black;
+}
+
+.card_purchase3{
+    box-shadow: 0 4px 30px 0 rgba(25, 24, 24, 0.2);
+    border-radius: 2vh;
+    transition: 0.5s;
+    padding-right: 2vh;
+    width: 75vw;
+    height: 50vh;
+    background-color: lightgrey;
+}
+
+.card_purchase4{
+    box-shadow: 0 4px 30px 0 rgba(25, 24, 24, 0.2);
+    border-radius: 2vh;
+    transition: 0.5s;
+    padding-right: 2vh;
+    width: 25vw;
+    height: 50vh;
+    background-color: lightblue;
+    border: 2px solid black;
+}
+
+.card_purchase5{
+    box-shadow: 0 4px 30px 0 rgba(25, 24, 24, 0.2);
+    border-radius: 2vh;
+    transition: 0.5s;
+    padding-right: 2vh;
+    margin-top: 1vh;
+    margin-left: 2vw;
+    width: 95vw;
+    height: 14vh;
+    background-color: lightblue;
+}

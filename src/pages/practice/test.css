@@ -1,0 +1,25 @@
+table{
+    border: 5px #000000;
+    border-collapse: separate;
+}
+
+th{
+    position: sticky;
+    top: 0px;
+    background-color: cadetblue;
+    border-radius: 3px;
+}
+
+tr{
+    font-size: .6vw;
+}
+
+td{
+    border: 1px solid black;
+    padding-left: 5px;
+}
+
+.table-wrapper{
+    max-height: 300px;
+    overflow-y: scroll;
+}
